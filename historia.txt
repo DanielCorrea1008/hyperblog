@@ -1,1 +1,1 @@
-Este es un archvio de ejemplo para Git. Esto es para un nuevo commit.
+Este es un archvio de ejemplo para Git. Esto es para un nuevo commit. Este seria el tercer commit.
