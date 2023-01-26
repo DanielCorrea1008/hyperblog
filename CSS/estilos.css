@@ -3,5 +3,10 @@ body
     color:chocolate;
     text-align: center;
     font-family: "Arial";
+}
 
+#cabecera
+{
+    background: #33a;
+    color:beige;
 }
