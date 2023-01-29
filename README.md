@@ -1,5 +1,6 @@
 # Hyperblog 💚
 
+Este es un ejercicio practico
 
 ## En este curso vemos de todo
 * Todos los comandos de Git
